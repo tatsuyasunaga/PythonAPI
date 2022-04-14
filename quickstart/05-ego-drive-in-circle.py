@@ -6,8 +6,7 @@
 #
 import sys
 sys.path.append('/home/sunapee/.local/lib/python3.8/site-packages')
-import .localimport sys
-sys.path.append('/home/sunapee/.local/lib/python3.8/site-packages')
+
 import .local
 from environs import Env
 import lgsvl
